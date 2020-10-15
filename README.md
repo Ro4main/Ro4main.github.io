@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcome to Ro4main Project�?
+=======
+Welcome to Globien Project！
+>>>>>>> parent of 9667b8c... 改域名
 
 格罗比言·全球�?(Globien) 是新一代人造国际语。她传承世界�?(Esperanto) 精神，融合中、英、法三大语言，更加简单易学，是更有效的国际沟通桥梁�?
 
