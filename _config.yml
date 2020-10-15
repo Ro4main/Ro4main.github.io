@@ -99,17 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-<<<<<<< HEAD
-        title: "Ro4main Wiki Dictionary",
-        href: "https://github.com/globien/globien.github.io/wiki"
-    },{
-        title: "Ro4main Community",
-=======
         title: "Globien Wiki Dictionary",
         href: "https://github.com/globien/globien.github.io/wiki"
     },{
         title: "Globien Community",
->>>>>>> parent of 9667b8c... 改域名
         href: "https://globien.fandom.com/wiki/Globien_Wiki"
     },{
         title: "知乎：人造国际语",
